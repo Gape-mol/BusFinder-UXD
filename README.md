@@ -61,23 +61,29 @@ The proposal is built around four pillars designed to address our users' core pa
 
 **Daniela Díaz** - *Designer*
 
-[PONER A ALGUIEN O BORRAR] - *Presenter*
-
 ---
 
 ## 3. Strategy - First Layer
 
 ### 3.1. Value Proposition Canvas
 
-[FALTA TEXTO]
+The Value Proposition Canvas defines BusFinder’s fit between the needs of rural and intercity bus users in Araucanía and the services proposed by the platform.
 
-![Value Proposition Canvas](/Docs/Site%20Map%20Diagram-BusFinder.jpg)
+The customer segment focuses on passengers who need to arrive on time to work, school, medical appointments, or other essential activities, while dealing with uncertainty about schedules, fares, luggage space, and bus availability. Their main pains include unreliable or fragmented schedule information, lack of fare transparency, baggage issues, and delays without prior notice.
+
+BusFinder responds to these pains through a set of services and value creators: real-time transit alerts, estimated travel times, visible seat and luggage capacity, transparent pricing with pre-applied discounts, and push notifications for delays or newly available seats. These features aim to reduce uncertainty, improve planning, increase reliability, and make the travel experience more inclusive for rural passengers, students, workers, and seniors.
+
+![Value Proposition Canvas](/Docs/Value%20Proposition%20Canvas-BusFinder.jpg)
 
 ***
 
 ### 3.2. **UX Personas**  
 
-[FALTA TEXTO]
+The UX Personas represent three key user profiles affected by rural and intercity mobility issues in Araucanía. They were created to reflect different levels of digital literacy, travel frequency, and dependency on public transport.
+
+Together, these personas help guide BusFinder’s design decisions by highlighting the need for reliable route information, accessible interfaces, clear fare visibility, real-time alerts, and reduced uncertainty before and during the trip. Their needs directly inform the product’s main features, such as live bus tracking, capacity and luggage visibility, fare transparency, and proactive notifications.
+
+Each persona represents a different mobility scenario: daily commuting, essential healthcare travel, and academic travel between rural towns and urban centers.
 
 ---
 
