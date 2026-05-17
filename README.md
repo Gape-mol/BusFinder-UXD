@@ -100,7 +100,24 @@ The proposal is built around four pillars designed to address our users' core pa
 ![UX Persona 3](./Docs/UX-Persona-3.jpg)
 
 
-### 3.3. Benchmarking 
+### 3.3. Benchmarking
+
+The benchmark compares **TurBus**, **Moovit**, and **Uber** to identify mobility UX patterns that can inform BusFinder. TurBus provides a direct reference for intercity bus ticket purchase and seat selection; Moovit contributes public transport route planning, live guidance, and service alerts; and Uber works as a design reference for map-centered tracking, ETA visibility, and fare transparency.
+
+From this analysis, BusFinder prioritizes a **search-first flow**, **clear route comparison**, **real-time or estimated bus tracking**, **fare transparency**, and **capacity/luggage visibility**. The benchmark also defines what the project should avoid, such as intrusive ads, mandatory sign-up before basic use, hidden luggage information, and overloaded navigation.
+
+**Full benchmark document:** [Benchmarks BusFinder](./Docs/Benchmarks%20BusFinder.pdf)
+
+#### Feature Map
+
+![Feature Map - Benchmark](./Docs/Benchmark_Images/Feature%20Map%20-%20Benchmark.jpg)
+
+#### Comparative Summary Table
+
+![Summary Table - 1](./Docs/Benchmark_Images/Sumarry%20Table%20-%201.jpg)
+
+![Summary Table - 2](./Docs/Benchmark_Images/Sumarry%20Table%20-%202.jpg)
+
 
 ---
 
