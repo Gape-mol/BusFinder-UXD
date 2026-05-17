@@ -106,7 +106,7 @@ The benchmark compares **TurBus**, **Moovit**, and **Uber** to identify mobility
 
 From this analysis, BusFinder prioritizes a **search-first flow**, **clear route comparison**, **real-time or estimated bus tracking**, **fare transparency**, and **capacity/luggage visibility**. The benchmark also defines what the project should avoid, such as intrusive ads, mandatory sign-up before basic use, hidden luggage information, and overloaded navigation.
 
-**Full benchmark document:** [Benchmarks BusFinder](./Docs/Benchmarks%20BusFinder.pdf)
+**Full benchmark document:** [Benchmark BusFinder](./Docs/Benchmark%20BusFinder.pdf)
 
 #### Feature Map
 
