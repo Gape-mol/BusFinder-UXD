@@ -17,8 +17,8 @@ Connecting rural Araucanía to reliable transit — one tap at a time
 - [5. Structure](#5-structure)
   - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
-  - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
-- [7. Surface](#z7-surface)
+  - [6.1. Low-Fi Wireframes](#61-low-fi-wireframes)
+- [7. Surface](#7-surface)
   - [7.1. Interface Evolution](#71-ui-evolution)
   - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
   - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
@@ -137,11 +137,25 @@ From this analysis, BusFinder prioritizes a **search-first flow**, **clear route
 
 ### 5.1. Navigation Flow
 
+The navigation flow is represented through the BusFinder site map diagram, showing the main app areas and how users move between search, live map, trip management, profile, payment, verification, and support flows.
+
+![Site Map Diagram - BusFinder](./Docs/Site%20Map%20Diagram-BusFinder.jpg)
+
 ---
 
 ## 6. Skeleton - Fourth Layer
 
-### 6.1. Low-fidelity wireframes
+### 6.1. Low-Fi Wireframes
+
+The low-fidelity wireframes document the core mobile screens and interaction paths for planning, selecting, paying for, managing, and modifying trips in BusFinder.
+
+![Low-Fi Wireframes Preview](./Docs/Low-Fi%20Wireframes%20Preview.png)
+
+The preview above shows three representative wireframes. The complete low-fi wireframe set is available in the PDF and Figma links below.
+
+**Low-fi wireframes document:** [Low-Fi Wireframes - PDF](./Docs/Low-Fi%20Wireframes.pdf)
+
+**Figma file:** [Low-Fi Wireframes - Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/Act-Lunes-27-Abril-UIX?node-id=0-1&t=ouVhxJIyy2qqlC2H-1)
 
 ---
 
