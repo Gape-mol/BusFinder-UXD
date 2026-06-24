@@ -1,11 +1,17 @@
 # BusFinder UXD
 Connecting rural Araucanía to reliable transit, one tap at a time
+https://canva.link/v55iex59ethmrx6
+
 
 > **Progress Presentation I:** [BusFinder - Presentación Avance 1 (PDF)](./Docs/BusFinder%20-%20Presentacion%20Avanze%201.pdf)
+> 
+> **Progress Presentation FINAL:** [BusFinder Final Version](./Docs/BusFinder%20Presentacion%20Final.pdf)
+
+> **Figma · Low-Fi Wireframes:** [Open in Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=0-1&p=f&t=BQZNktzbyAsyNEaS-0)
 >
-> **Figma · Low-Fi Wireframes:** [Open in Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/Act-Lunes-27-Abril-UIX?node-id=0-1&t=ouVhxJIyy2qqlC2H-1)
+> **Figma · High-Fidelity Interfaces:** [Open in Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=298-159&p=f&t=BQZNktzbyAsyNEaS-0)
 >
-> **Figma · High-Fidelity Interfaces:** [Open in Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=298-159&t=XmYar2kFvUV8Uq2E-1)
+> **Figma · Changes & Iterations (feedback):** [Open in Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=765-1106&p=f&t=BQZNktzbyAsyNEaS-0)
 
 ## Index
 
@@ -25,6 +31,11 @@ Connecting rural Araucanía to reliable transit, one tap at a time
 - [7. The Surface](#7-the-surface)
   - [7.1. Interface Evolution](#71-interface-evolution)
   - [7.2. High-Fidelity Interfaces](#72-high-fidelity-interfaces)
+- [8. Results of the Heuristic Evaluation](#8-results-of-the-heuristic-evaluation)
+  - [8.1. Tutor's Evaluation](#81-tutors-evaluation)
+  - [8.2. Heuristic Evaluation](#82-heuristic-evaluation)
+- [9. Accessibility](#9-accessibility)
+- [10. Conclusion](#10-conclusion)
 
 ---
 
@@ -173,7 +184,7 @@ These paper sketches locked in the layout, what mattered most on each screen, an
 
 **Low-fi wireframes document:** [Low-Fi Wireframes - PDF](./Docs/Low-Fi%20Wireframes.pdf)
 
-**Figma file:** [Low-Fi Wireframes - Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/Act-Lunes-27-Abril-UIX?node-id=0-1&t=ouVhxJIyy2qqlC2H-1)
+**Figma file:** [Low-Fi Wireframes - Figma](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=0-1&p=f&t=BQZNktzbyAsyNEaS-0)
 
 ---
 
@@ -183,7 +194,7 @@ The surface layer is where BusFinder really takes shape. It covers the visual de
 
 Every high-fidelity screen is built from a shared, reusable set of components and leans on familiar UI conventions: one consistent palette and type scale, reusable buttons, inputs, cards, badges, and steppers, and a bottom navigation that's always within reach. Color carries meaning here, purple for primary actions and red for the destructive ones, and repeating patterns like stepped flows, confirmation screens, and success states keep the whole app predictable and easy to follow.
 
-**Figma file:** [BusFinder UIX - High-Fidelity Interfaces](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=298-159&t=XmYar2kFvUV8Uq2E-1)
+**Figma file:** [BusFinder UIX - High-Fidelity Interfaces](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=298-159&p=f&t=BQZNktzbyAsyNEaS-0)
 
 ### 7.1. Interface Evolution
 
@@ -233,8 +244,8 @@ Smart notifications show up right on the map home and shift with the situation: 
 
 There's plenty more where this came from. Take a look at the Figma files to see how our work evolved:
 
-- **Low-fidelity wireframes:** [Figma file](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/Act-Lunes-27-Abril-UIX?node-id=0-1&t=ouVhxJIyy2qqlC2H-1)
-- **High-fidelity interfaces:** [Figma file](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=298-159&t=XmYar2kFvUV8Uq2E-1)
+- **Low-fidelity wireframes:** [Figma file](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=0-1&p=f&t=BQZNktzbyAsyNEaS-0)
+- **High-fidelity interfaces:** [Figma file](https://www.figma.com/design/ZrcgdOga1rsxqB9vF9FUYD/BusFinder-UIX?node-id=298-159&p=f&t=BQZNktzbyAsyNEaS-0)
 
 ### 7.2. High-Fidelity Interfaces
 
@@ -277,5 +288,159 @@ This area groups everything to do with cards. Métodos de pago lists saved cards
 A side menu that pulls the new areas together, with quick access to the profile, trips, identity verification, payment methods, legal documents, support, and logout.
 
 ![Navigation Menu - High Fidelity](./Docs/Highfi/Burger%20Menu.png)
+
+---
+
+## 8. Results of the Heuristic Evaluation
+
+Once the high-fidelity prototype was ready, we put it in front of two groups who looked at it with a critical eye. Our tutor reviewed it, and another team ran a heuristic evaluation. Both rounds turned up real usability problems, and we treated every one of them as something to fix.
+
+### 8.1. Tutor's Evaluation
+
+The tutor's review came down to a handful of recurring problems. Buttons came in different heights and sizes from one screen to the next, so we made them share the same proportions. Some screens repeated user data and instructions, so we cut the extra copies and kept a single source of truth. A few screens had several buttons doing the same job, so we merged them into one clear action. The purchase flow felt cramped and hard to follow, so we reworked it into clearer, tidier steps. And the ticket screen had too many buttons, so we trimmed it down to what really matters.
+
+Here is each change in detail, with the problem and what we did about it.
+
+#### Remove the duplicate "Volver a horarios" button
+
+The new-trip details screen had a "Volver a horarios" button that did the same thing as the back arrow. We removed it and left a single, clear way to go back.
+
+![Change 1 - Remove "Volver a horarios"](./Docs/HeuristicEvaluation/TutorChanges/cambio-01-eliminar-volver-a-horarios.png)
+
+#### Standardize button size
+
+Across the change-trip and seat-selection flow, the buttons came in different heights and widths. We resized them all to match, so the whole flow looks consistent.
+
+![Change 2 - Standardize button size](./Docs/HeuristicEvaluation/TutorChanges/cambio-02-tamano-botones.png)
+
+#### Remove the redundant "Volver a iniciar sesión" link
+
+The password-recovery screen ("¿Cuál es tu cuenta?") had an extra "Volver a iniciar sesión" link that just repeated navigation already on the screen. We took it out.
+
+![Change 3.1 - Remove "Volver a iniciar sesión"](./Docs/HeuristicEvaluation/TutorChanges/cambio-03-1-eliminar-volver-a-login.png)
+
+#### Remove the repeated instruction
+
+The "Crea una nueva contraseña" screen explained the password requirements twice. We kept one clear hint and dropped the duplicate.
+
+![Change 3.2 - Remove repeated instruction](./Docs/HeuristicEvaluation/TutorChanges/cambio-03-2-eliminar-instruccion-repetida.png)
+
+#### Align buttons to the same level
+
+In the recovery flow, the action buttons sat at different heights from one screen to the next. We lined them all up to the same level so the flow feels steady.
+
+![Change 3.3 - Align buttons to the same level](./Docs/HeuristicEvaluation/TutorChanges/cambio-03-3-botones-mismo-nivel.png)
+
+#### A more direct cancellation message
+
+The cancellation-success message was long and roundabout ("Su cancelación ha sido realizada con éxito"). We shortened it to a plain "Has cancelado el viaje".
+
+![Change 4 - More direct cancellation message](./Docs/HeuristicEvaluation/TutorChanges/cambio-04-mensaje-cancelacion-directo.png)
+
+#### More direct copy on account creation
+
+The create-account screen used wordy, indirect text. We rewrote it to be shorter and to the point.
+
+![Change 5 - More direct account-creation copy](./Docs/HeuristicEvaluation/TutorChanges/cambio-05-mensaje-crear-cuenta-directo.png)
+
+#### Redesign the ticket screen
+
+The ticket detail screen ("Mi pasaje") was crowded with too many stacked buttons. We redesigned it with tabs and color-coded actions for changing the trip, changing the date, and cancelling, which brought the number of buttons way down.
+
+![Change 6 - Ticket screen redesign](./Docs/HeuristicEvaluation/TutorChanges/cambio-06-rediseno-pasaje.png)
+
+#### Clean up the purchase flow
+
+The trip-details and seat-selection steps felt cramped and hard to read. We redesigned them into a cleaner layout that is easier to follow.
+
+![Change 7 - Purchase flow cleanup](./Docs/HeuristicEvaluation/TutorChanges/cambio-07-flujo-compra.png)
+
+#### Remove the profile from the burger menu
+
+The burger menu showed the user's profile in its header and again as the "Mi perfil" item. We replaced the header with the BusFinder logo and left "Mi perfil" as the only way in.
+
+![Change 8 - Remove profile from burger menu](./Docs/HeuristicEvaluation/TutorChanges/cambio-08-eliminar-perfil-burger.png)
+
+#### Hide "Verificar identidad" for verified users
+
+The menu kept showing "Verificar identidad" even to people who were already verified. We hid the option for them.
+
+![Change 8.1 - Hide "Verificar identidad" for verified users](./Docs/HeuristicEvaluation/TutorChanges/cambio-08-1-quitar-verificar-identidad.png)
+
+#### Restructure the profile screen
+
+The "Mi perfil" screen was hard to scan. We gave it a new layout that groups the user's information more clearly.
+
+![Change 9 - Profile screen restructure](./Docs/HeuristicEvaluation/TutorChanges/cambio-09-nueva-estructura-perfil.png)
+
+### 8.2. Heuristic Evaluation
+
+An external team reviewed BusFinder against usability heuristics. In short, they found that password fields had no show or hide toggle, that the profile could be reached from two places at once, that the "Cerrar sesión" button blended into the menu background, that screen titles weren't centered, and that there was no way to add a new payment method. We worked through each one.
+
+Here is each change in detail, with the problem and what we did about it.
+
+#### Add a show/hide toggle to password fields
+
+Password fields gave you no way to see what you were typing, so it was easy to make a mistake without noticing. We added a show and hide (eye) toggle to every password field.
+
+![Heuristic Change 1 - Password visibility toggle](./Docs/HeuristicEvaluation/HeuristicChanges/cambio-1-toggle-contrasena.png)
+
+#### Remove the duplicate access to the profile
+
+You could reach the profile from two places at once, which was redundant and a little confusing. We removed the extra entry point and kept one way in.
+
+![Heuristic Change 2 - Remove duplicate profile access](./Docs/HeuristicEvaluation/HeuristicChanges/cambio-2-quitar-acceso-perfil.png)
+
+#### Make the "Cerrar sesión" button stand out
+
+The "Cerrar sesión" (log out) button blended into the burger-menu background, so it didn't look like a button at all. We made it red so it clearly reads as an action.
+
+![Heuristic Change 3 - Log-out button color](./Docs/HeuristicEvaluation/HeuristicChanges/cambio-3-boton-cerrar-sesion-rojo.png)
+
+#### Center the screen titles
+
+Screen titles were left-aligned and didn't match from one screen to the next. We centered them so they stay consistent across the app.
+
+![Heuristic Change 4 - Centered titles](./Docs/HeuristicEvaluation/HeuristicChanges/cambio-4-titulos-centrados.png)
+
+#### Add an "add payment method" button
+
+There was no way to add a new card from the payment screen. We added an "Añadir método de pago +" button so people can register new payment methods.
+
+![Heuristic Change 5 - Add payment method](./Docs/HeuristicEvaluation/HeuristicChanges/cambio-5-anadir-metodo-pago.png)
+
+---
+
+## 9. Accessibility
+
+Accessibility mattered to us from the start, not as a finishing touch. Our users include seniors with low vision, students in a hurry, and rural workers who aren't all comfortable with apps, so we leaned on the WCAG guidelines and Nielsen's heuristics to keep BusFinder readable, predictable, and forgiving. Three decisions stand out.
+
+### Navigation and flow orientation
+
+**WCAG 2.4.6 · Nielsen #1, visibility of system status.** Multi-step flows show a three-step indicator, with a check on the steps you've finished and a number on the one you're on, so you always know where you are and how much is left. Shorter flows use a simple "Paso 1 de 3" label to do the same job.
+
+![Flow Orientation - Step Indicators](./Docs/Accessibility/flow-orientation-step-indicators.png)
+
+### Understanding without relying on color
+
+**WCAG 1.4.1, use of color.** In the seat map, the *Available*, *Occupied*, and *Selected* states are shown with color **and** a text legend **and** the seat number. We never rely on color alone, so the screen still makes sense for people with color blindness or low vision.
+
+![Seat Map Legend](./Docs/Accessibility/seat-map-legend.png)
+
+### Error prevention and user control
+
+**WCAG 3.3.4 · Nielsen #5, error prevention.** We always warn people before an action they can't undo. Before someone confirms a cancellation or removes a card, an in-between screen recaps the details and shows an "Important" note, like the refund policy, so they have a clear chance to back out.
+
+![Cancellation Confirmation](./Docs/Accessibility/cancellation-confirmation.png)
+
+---
+
+## 10. Conclusion
+
+BusFinder grew out of a full UX design process, from spotting a real connectivity gap in rural Araucanía to building a high-fidelity, accessible prototype. Along the way we based our decisions on user research, personas, and benchmarking, gave the product shape through navigation flows and wireframes, and pulled it all together into one consistent visual style. Two rounds of feedback, from our tutor and from an external heuristic review, pushed the design even further, and accessibility guided the experience from the first screen to the last.
+
+What came out of it is an app built around rural passengers, with real-time information, visible seats and luggage, clear fares, and timely notifications, all in one place.
+
+**Thank you for reading our work!**
 
 ---
